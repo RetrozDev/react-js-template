@@ -10,7 +10,7 @@ const Home = () => {
 	return (
 		<div>
 			<h1>Home</h1>
-            <p>Here you can edit this page </p>
+			<p>Here you can edit this page </p>
 		</div>
 	);
 };

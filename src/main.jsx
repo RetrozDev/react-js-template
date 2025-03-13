@@ -8,7 +8,6 @@ import Home from "./pages/Home.jsx";
 import "./reset.css"; // Optional: Reset browser styles
 // import "./index.css"; // Optional: Your global styles
 
-
 const router = createBrowserRouter([
 	{
 		element: <App />,
